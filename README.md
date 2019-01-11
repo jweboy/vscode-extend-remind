@@ -1,9 +1,14 @@
-# vscode-extend-remind
+# Vscode-Extend-Remind
 
-自娱自乐的小插件
+## Introduction
 
-### 参考
+自娱自乐的vscode小插件
 
-- [https://juejin.im/entry/5b50509d5188251967307780](https://juejin.im/entry/5b50509d5188251967307780)
+##  Screenshot
 
-**Enjoy!**
+![](./example.gif)
+
+### Reference
+
+- [Publishing Extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+

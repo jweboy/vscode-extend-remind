@@ -2,7 +2,7 @@
 	"name": "jweboy-remind",
 	"displayName": "jweboy-remind",
 	"description": "My custom vscode extend",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
@@ -13,6 +13,10 @@
 		"*"
 	],
 	"publisher": "jweboy",
+	"repository": {
+		"url": "https://github.com/jweboy/vscode-extend-remind",
+		"type": "git"
+	},
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [{
